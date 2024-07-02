@@ -1,5 +1,5 @@
 .hero {
-    background-image: url(C:\Users\ayush\Desktop\react-1\money_project\src\assets\hero-img.jpg);
+    background-image: url(money_project\src\assets\hero-img.jpg);
     background-size: cover;
     background-position: center; /* Adjust as needed */
   }

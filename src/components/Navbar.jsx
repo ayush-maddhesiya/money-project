@@ -20,7 +20,7 @@ const Navbar = () => (
               ></path>
             </svg>
           </span>
-          <span class="font-bold">DevUI</span>
+          <span class="font-bold">Your Company</span>
         </div>
         <div class="hidden lg:block">
           <ul class="inline-flex space-x-8">
