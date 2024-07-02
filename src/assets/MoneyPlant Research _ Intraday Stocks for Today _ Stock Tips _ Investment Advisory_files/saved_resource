@@ -1,0 +1,1809 @@
+ 
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+<!-- meta tag -->
+<meta charset="utf-8">
+<meta name="facebook-domain-verification" content="uv10sy56cch34dc7r8bojg58qmgrhp" />
+<meta name="google-site-verification" content="QG1y2kjlBFkDjr6-UmEIef4a4vGHW9GfmKByZEe1XI0" />
+<meta name="msvalidate.01" content="B9FFB5E833171642A99EAB7320298DBF" />
+<meta name="author" content="Moneyplant Investment Advisor">
+<title> MoneyPlant Research | Intraday Stocks for Today | Stock Tips | Investment Advisory </title>
+<meta name="description" content="Moneyplant Research a SEBI registered Investment Advisory provides  appropriate market research Solutions gives free intraday tips on mobile of share market.and mcx market."/>
+<link rel="canonical" href="https://www.moneyplantresearch.com/index/" />
+<meta name="robots" content="index, follow">
+<!-- responsive tag -->
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- favicon -->
+<link rel="shortcut icon" type="image/x-icon" href="../images/favicon-16x16.png">
+<!-- bootstrap v3.3.7 css -->
+<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+<!-- font-awesome css -->
+<link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css">
+<!-- animate css -->
+<link rel="stylesheet" type="text/css" href="../css/animate.css">
+<!-- owl.carousel css -->
+<link rel="stylesheet" type="text/css" href="../css/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="../css/slick.css">
+<!-- nivo slider CSS -->
+<link rel="stylesheet" type="text/css" href="../inc/custom-slider/css/nivo-slider.css">
+<link rel="stylesheet" type="text/css" href="../inc/custom-slider/css/preview.css">
+<!-- magnific popup css -->
+<link rel="stylesheet" type="text/css" href="../css/magnific-popup.css">
+<!-- Main Menu css -->
+<link rel="stylesheet" href="../css/color-style.css">
+<!-- Main Menu css -->
+<link rel="stylesheet" href="../css/rsmenu-main.css">
+<!-- rsmenu transitions css -->
+<link rel="stylesheet" href="../css/rsmenu-transitions.css">
+<!-- style css -->
+<link rel="stylesheet" type="text/css" href="../style.css">
+<!-- This stylesheet dynamically changed from style.less -->
+<!-- switch color presets css -->
+<link id="switch_style" href="#" rel="stylesheet" type="../text/css">
+<!-- responsive css -->
+<link rel="stylesheet" type="text/css" href="../css/responsive.css">
+<!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130504586-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130504586-1');
+</script>
+<!-- Global site tag (gtag.js) - Google Ads: 775193338 --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-775193338"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-775193338'); </script>
+
+<!--formden.js communicates with FormDen server to validate fields and submit via AJAX -->
+<script type="text/javascript" src="https://formden.com/static/cdn/formden.js"></script>
+
+<!-- Special version of Bootstrap that is isolated to content wrapped in .bootstrap-iso -->
+<link rel="stylesheet" href="https://formden.com/static/cdn/bootstrap-iso.css" />
+<!-- Modal -->
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js" ></script>
+<style type="text/css">
+
+  .table_box_cb
+      {
+        background: #056d3f;
+        color: #fff;
+        text-align: center;
+      }
+      .tr_heading_cb
+      {
+       text-align: center;
+       background: #6a9708;
+       color:#fff;
+
+      }
+      @media only screen
+        and (min-device-width : 320px)
+        and (max-device-width : 480px) 
+        {
+               table_box_cb, .tr_heading_cb
+                { 
+                      Display:block;!important;
+                      padding 2px!important;
+                }
+        }
+        
+             /* Section seven*/
+            @media only screen
+            and (min-device-width : 320px)
+            and (max-device-width : 480px)
+        {
+          table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th 
+          {
+            padding: 2px!important;
+            line-height: 1.42857143;
+            vertical-align: top;
+            border-top: 1px solid #fff;
+           }
+        }
+        
+        /*risk profile button*/
+        .riskbtn 
+        {
+           background: #0f6d41;
+    padding: 8px 12px;
+    color: #fff;
+    border: 0;
+    padding: 10px 20px;
+    font-size: 17px;
+    position: fixed;
+    right: -6rem;
+    top: 35rem;
+    transform: rotate(-450deg);
+    z-index: 111;
+    border-radius: 5px;
+        }   
+    </style>
+</head>
+<body class="defult-home">
+    
+<!--Preloader area start here-->
+<!-- <div id="loading">-->
+<!--  <div id="loading-center">-->
+<!--    <div id="loading-center-absolute">-->
+<!--      <div class="object" id="object_one"></div>-->
+<!--      <div class="object" id="object_two"></div>-->
+<!--      <div class="object" id="object_three"></div>-->
+<!--      <div class="object" id="object_four"></div>-->
+<!--    </div>-->
+<!--  </div>-->
+<!--</div> -->
+
+<!--End preloader here -->
+<!--Header Start-->
+
+<style>
+.footer-address li a{
+color:#fff;}
+.rs-footer .footer-bottom .copyright p {
+    margin: 10px 0 0;}
+  .rs-footer .footer-bottom {
+    padding: 0px 0 0px;
+  }
+  .rs-footer .footer-top {
+    padding: 40px 0;}
+    
+</style>
+
+<style type="text/css">
+    /* Overrite All css */
+  #rs-header .toolbar-area{
+    background: #066d3f !important;
+  }
+
+  .free{
+    background: #f6ad13 !important;
+  }
+
+  .fixed_button_complaint{
+    background: #066d3f !important;
+  }
+
+  marquee{
+    color: #066d3f !important;
+  }
+
+  .sec-title>h4{
+    color: #f6ad13 !important;
+  }
+
+  .sl-title{
+    color: #066d3f !important;
+  }
+
+  .riskbtn{
+    background: #066d3f !important;
+    color: #FFF !important;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 15px;
+    right: -5rem;
+    border-radius: 10px 10px 0 0;
+  }
+
+  .defult-home .rs-slider .nivo-directionNav > a:hover{
+    background: #066d3f !important;
+    border-color: #066d3f !important;
+  }
+
+  .readon{
+    background: #f6ad13 !important;
+    color: #FFF !important;
+    border-color: #FFF !important;
+  }
+
+  .primary-bg{
+    background: #066d3f !important;
+  }
+
+  .calc_main{
+    background: #f6ad13 !important;
+  }
+
+  .calc_main_box{
+    background: #f6ad13 !important;
+  }
+
+  .outer_calc_contents{
+    background: #f6ad13 !important;
+  }
+
+  button:disabled, button[disabled]{
+    background: #fbb68b !important;
+  }
+
+  .nextbutton{
+    background: #f6ad13 !important;
+  }
+
+  .tabactive{
+    background: #f6ad13 !important;
+  }
+
+  .activetab{
+    background: #f6ad13 !important;
+  }
+
+  .owl-carousel .owl-nav [class*="owl-"].owl-prev,.owl-carousel .owl-nav [class*="owl-"].owl-next{
+    background: #066d3f !important;
+  }
+
+  .owl-carousel .owl-nav [class*="owl-"]:hover{
+    background: #f6ad13 !important;
+  }
+
+  .rs-team .team-item .grid-style-1 .team-item-wrap .team-img .normal-text .team-name{
+    background: #066d3f !important;
+  }
+
+  .rs-team .team-item .grid-style-1 .team-item-wrap:before, .rs-team .team-item .grid-style-1 .team-item-wrap:after{
+    border: #066d3f !important;
+  }
+
+  .rs-team .team-item .grid-style-1 .team-item-wrap:before, .rs-team .team-item .grid-style-1 .team-item-wrap:before{
+    border: #066d3f !important;
+  }
+
+  .rs-team .team-item .grid-style-1 .team-item-wrap:hover:before{
+    border: #066d3f !important;
+  }
+
+  .rs-testimonial-section .testi-item .item-detail p i,.rs-testimonial-section .testi-item .title,.rs-testimonial-section .testi-item .stars ul li{
+    color: #f6ad13 !important;
+  }
+
+  .panel-group .panel .panel-heading .panel-title a:after{
+    background: #066d3f !important;
+  }
+
+  .counter-top-area .overlay{
+    background: #f6ad13 !important;
+  }
+
+  .rs-counter-list>a>h4{
+    color: #FFF;
+  }
+
+  .footer-bottom{
+    background: #066d3f !important;
+  }
+
+  #scrollUp>i{
+    background: #f6ad13 !important;
+  }
+
+  .rs-footer .footer-bottom .footer-bottom-share ul li a{
+    background: #066d3f !important;
+  }
+
+  .rs-footer .footer-bottom .footer-bottom-share ul li a:hover{
+    background: #f6ad13 !important;
+  }
+
+  ::selection{
+    background: #066d3f !important;
+  }
+
+  .nav-menu > .menu-item-has-children > span.rs-menu-parent, .nav-menu .rs-mega-menu > span.rs-menu-parent{
+    background: #f6ad13 !important;
+    border-left: 1px solid #f6ad13 !important;
+  }
+
+  .top-history .history-column{
+    background: #066d3f !important;
+  }
+
+  .rs-breadcrumbs ul li{
+    color: #066d3f !important;
+  }
+
+  #rs-header .menu-area .rs-menu ul li .sub-menu li a:hover{
+    color: #066d3f !important;
+  }
+
+  .rs-contact .contact-bg .contact-address{
+    background: #066d3f !important;
+  }
+
+  .rs-pricing4 .pricing-plan .top .cl-header h4{
+    background: #066d3f !important;
+  }
+
+  .rs-pricing4 .pricing-plan .top a.btn-table{
+    border: 2px solid #f6ad13 !important;
+  }
+
+  .rs-pricing4 .pricing-plan:hover .top a.btn-table{
+    background: #f6ad13 !important;
+  }
+
+  .rs-pricing4 .pricing-plan .top .cl-header h4 span.dolar{
+    color: #066d3f !important;
+  }
+
+  .rs-services-3 .common{
+    border-bottom: 4px solid #066d3f !important;
+  }
+
+  .rs-services-3 .common .icon{
+    color: #066d3f;
+  }
+
+  .rs-services-3 .common:hover{
+    background: #066d3f !important;
+  }
+
+  .rs-portfolio .portfolio-filter .active,.rs-portfolio .portfolio-filter button:hover{
+    background: #f6ad13 !important;
+  }
+
+  .rs-portfolio .portfolio-filter button{
+    border: 2px solid #066d3f !important;
+  }
+
+  .tr_heading_cb{
+    background: #f6ad13 !important;
+  }
+
+  .table_box_cb{
+    background: #066d3f !important;
+  }
+
+  .complaint_statics_box{
+    background: #f6ad13 !important;
+  }
+
+  .modal-content{
+    border-color: #f6ad13 !important;
+  }
+
+  #testsubmit{
+    background: #066d3f !important;
+  }
+
+  .panel,.form{
+    background: #e5f9f0;
+  }
+
+  .sl-title{
+    color: #f6ad13 !important;
+  }
+
+  .rs-counter-list{
+    background: #066d3f !important;
+  }
+
+  .rs-counter-list>a>h4>i{
+    font-size: 35px !important;
+    display: none !important;
+  }
+
+  .rs-counter-list>a>h4{
+    font-size: 16px !important;
+  }
+
+  .counter-top-area .rs-counter-list{
+    height: 180px !important;
+  }
+
+  /* Media Query */
+  @media only screen and (max-width: 991px)
+  {
+    body #rs-header .menu-area .rs-menu ul li{
+      background: #066d3f !important;
+    }
+
+    .nav-menu > li > a{
+      border-bottom: 1px solid #f6ad13 !important;
+    }
+  }
+
+  .blink_me {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+  
+</style>
+
+<style type="text/css">
+  body{
+    padding: 0px !important;
+  }
+</style>
+
+<header id="rs-header">
+    
+    
+  <!-- Toolbar Start -->
+  
+  <div class="toolbar-area hidden-sm hidden-xs">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-5">
+          <div class="toolbar-contact">
+            <ul>
+              <li><i class="fa fa-mobile"></i><a href="tel:+91-88188-86453">+91-88188-86453</a></li>
+              <li><i class="fa fa-envelope-o"></i><a href="mailto:info@moneyplantresearch.com">info@moneyplantresearch.com</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="toolbar-contact">
+            <!--<marquee style="margin-top: 11px;font-size: 19px;color: #fff;">-->
+            <!--Welcome to Moneyplant Investment Advisory.-->
+            <!--</marquee>-->
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="toolbar-sl-share">
+            <ul>
+              <li class="follow">Follow us</li>
+              <li><a href="https://www.facebook.com/MoneyplantInvestmentAdvisor" target="_blank"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="https://www.instagram.com/moneyplantia" target="_blank"><i class="fa fa-instagram"></i></a></li>
+              <li><a href="https://twitter.com/Moneyplant_IA" target="_blank"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="https://www.linkedin.com/in/moneyplantia" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Toolbar End -->
+  <!-- Header Menu Start -->
+  <div class="menu-area rs-defult-header menu-sticky">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-2">
+          <div class="logo-area"> <a href="https://www.moneyplantresearch.com/" style="width: 240px;
+    margin-top: 6%;"><img src="https://www.moneyplantresearch.com/images/mplogo.png" style="height:43px;" alt="MoneyPlant Research"></a> </div>
+        </div>
+        <div class="col-sm-10">
+          <div class="main-menu"> <a class="rs-menu-toggle"><i class="fa fa-bars"></i>Menu</a>
+            <nav class="rs-menu">
+              <ul class="nav-menu">
+                <!-- Home -->
+                <li class="menu-item-has-children"><a href="javascript:void(0)">Company</a>
+                  <ul class="sub-menu">
+                    <li><a href="https://www.moneyplantresearch.com/index/about">About Us</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/certifications">Certifications</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/life">Life @ MoneyPlants</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/get-in-touch">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="menu-item-has-children"><a href="https://www.moneyplantresearch.com/index">Services</a>
+                  <ul class="sub-menu">
+                    <!--<li><a href="https://www.moneyplantresearch.com/index/service-details/combo-options-pack">Combo Options Pack</a></li>-->
+                    
+                    <li><a href="https://www.moneyplantresearch.com/index/all-services">All Services</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/service-details/currency-futures">Currency Futures</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/service-details/currency-options">Currency Options</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/service-details/premium-stock-futures">Premium Stock Futures</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/service-details/premium-stock-options">Premium Stock Options</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/service-details/stock-cash-premium">Stock Cash Premium</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/service-details/mcx-futures">MCX Futures</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/service-details/mcx-options">MCX Options</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/service-details/stock-cash">Stock Cash</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/service-details/stock-futures">Stock Futures</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/service-details/stock-options">Stock Options</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/service-details/options-btst">Options BTST</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/service-details/index-futures">Index Futures</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/service-details/index-options">Index Options</a></li> 
+                  </ul>
+                </li>
+                <li> <a href="https://www.moneyplantresearch.com/index/our-pricings">Pricing</a> </li>
+				  
+                <li> <a href="https://www.moneyplantresearch.com/index/pay">Payment</a> </li>
+                <li class="menu-item-has-children"><a href="javascript:void(0)">HR Zone</a>
+                  <ul class="sub-menu">
+                    <li><a href="https://www.moneyplantresearch.com/index/career">Career</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/current-openings">Current Openings</a></li>
+                    
+                    <li><a href="https://www.moneyplantresearch.com/index/csr">CSR</a></li>
+                  </ul>
+                </li>
+                <li class="menu-item-has-children"><a href="javascript:void(0)">Dashboard</a>
+                  <ul class="sub-menu">
+				            <li> <a href="https://www.moneyplantresearch.com/index/performance">Track Records</a> </li>
+					           <li> <a href="https://www.moneyplantresearch.com/index/reports">Reports</a> </li>
+					           <!--<li><a href="https://www.moneyplantresearch.com/risk-profile/" target="_blank">Risk Profiling</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/kyc-and-risk-profile/">KYC & Risk Profiling</a></li>-->
+                    <li><a href="https://www.moneyplantresearch.com/index/investingguide">Guide For Investing</a></li>
+                    <!--<li><a href="https://www.moneyplantresearch.com/index/support-and-grievance">Support & Grievance</a></li>-->
+                    <!--<li><a href="https://www.moneyplantresearch.com/index/refund-policy">Refund Policy</a></li>-->
+                    
+                    <!--<li><a href="https://www.moneyplantresearch.com/index/terms">Term's of Use</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/privacy-policy">Privacy Policy</a></li>-->
+                    <li><a href="https://www.moneyplantresearch.com/index/disclaimer">Disclaimer</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/disclouser">Disclouser</a></li>
+                    
+                  </ul>
+                </li>
+                <li class="menu-item-has-children"><a href="javascript:void(0)">Client Corner</a>
+                  <ul class="sub-menu">
+                    <li><a href="https://www.moneyplantresearch.com/index/kyc-and-risk-profile/">New Client</a></li>
+                    <!-- <li><a href="https://www.moneyplantresearch.com/index/signbox">Existing Client</a></li> -->
+                    <li class="menu-item-has-children"><a href="javascript:void(0)">Exisitng Client</a>
+                      <ul class="sub-menu">
+                      <li><a href="https://www.moneyplantresearch.com/index/risk-and-agreement/">Update Risk & Agreement</a></li>
+                      <li><a href="https://www.moneyplantresearch.com/index/signbox/">Update Agreement</a> </li>
+                      
+                        </ul>      
+                      <!-- <li class="menu-item-has-children"><a href="javascript:void(0)">Existing Client</a>
+                        <ul class="sub-menu">
+                          <li><a href="https://www.moneyplantresearch.com/index/signbox">Update Risk & Agreement</a></li>
+                          <li><a href="https://www.moneyplantresearch.com/index/signbox">Update Agreement</a></li>
+                        <ul>
+                      </li>
+                     -->
+                    <li><a href="https://www.moneyplantresearch.com/index/investingguide">Guide For Investing</a></li>
+                  <li><a href="https://www.moneyplantresearch.com/index/support-and-grievance">Support & Grievance</a></li>
+                    <!--<li><a href="https://www.moneyplantresearch.com/index/refund-policy">Refund Policy</a></li>-->
+                                    
+                    <li><a href="https://www.moneyplantresearch.com/index/terms">Term's of Use</a></li>
+                    <li><a href="https://www.moneyplantresearch.com/index/privacy-policy">Privacy Policy</a></li>
+                  </ul>
+                </li>
+                <!--<li> <a href="javascript:void(0)" data-toggle="modal" data-target="#myModal2">Complaint Board</a> </li>-->
+                <li> <a href="https://moneyplantresearch.com/blog/">Blog</a> </li>
+                <li> <a href="https://www.moneyplantresearch.com/index/annexure-b">Complaint Board</a> </li>
+                <li> <a class="blink_me" href="https://www.moneyplantresearch.com/index/get-in-touch">Get In Touch</a> </li>
+              </ul>
+            </nav>
+          </div>
+          <div class="appointment-cart hidden-sm hidden-xs">
+            <!--<ul class="cart">
+                <li> <a href="https://www.moneyplantresearch.com/index/pay" target="_blank">
+                    <button><i class="fa fa-paper-plane"></i> Quick Pay</button></a>
+                </li>
+            </ul>-->
+            <!--<div class="search-bar">
+              <input type="search" placeholder="Search...">
+              <button type="button"><i class="fa fa-search"></i></button>
+            </div>-->
+        </div>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal -->
+  <div class="modal fade" id="myModal2" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-body">
+          <p>
+            <table class="table_box_cb table table-bordered">
+                        <tr>
+                            <td class="tr_heading_cb" colspan="5"><h4><h4></td>
+                            <!-- <td class="tr_heading_cb" colspan="5"><h4>No. of complaint as on 31 Apr 2021<h4></td> -->
+                            <!--<td><a href="https://www.moneyplantresearch.com/risk-profile/" target="_blank">
+                            <button class="btn tr_heading_cb"><i class="fa fa-thumbs-up"></i> Risk Profile</button>
+                            </a></td>-->
+                        </tr>
+                        <tr>
+                            <td>At the beginning of the month</td>
+                            <td>Received during the month</td>
+                            <td>Resolved during the month</td>
+                            <td>Pending at the end of the month</td>
+                            <td>Reasons for pendency</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <!-- <tr>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr> -->
+                    </table>
+                    <ul>
+                      <li>
+                        <img src="https://global-uploads.webflow.com/591b46f1eacfad0f37b73b0f/5e8b1b728a03b5fe7e55f756_5dd9306656a2d6981c4fdc4f_bullet-points.png" style="width: 20px;" />
+                      Data is updated on 7th per month. It gets verified every quarter by independent auditor.</li>
+
+                      <li>
+                        <img src="https://global-uploads.webflow.com/591b46f1eacfad0f37b73b0f/5e8b1b728a03b5fe7e55f756_5dd9306656a2d6981c4fdc4f_bullet-points.png" style="width: 20px;" />
+                      Data presented here is taken from company's inception</li>
+
+                      <li>
+                        <img src="https://global-uploads.webflow.com/591b46f1eacfad0f37b73b0f/5e8b1b728a03b5fe7e55f756_5dd9306656a2d6981c4fdc4f_bullet-points.png" style="width: 20px;" />
+                      Importance given to satisfactory resolution as per prescribed TAT</li>
+                    </ul>
+          </p>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+  
+  <!-- Complaint Table-->
+    <!-- <div class="container-fluid" style="display: none;">
+        <div class="row">
+            <div class="col-12 col-md-12 col-lg-12 col-sm-12">
+                <div>
+                    <table class="table_box_cb table table-bordered">
+                        <tr>
+                            <td class="tr_heading_cb"><h4><h4></td>
+                            <td></td>
+                           <td><a href="https://www.moneyplantresearch.com/risk-profile/" target="_blank">
+                            <button class="btn tr_heading_cb"><i class="fa fa-thumbs-up"></i> Risk Profile</button>
+                            </a></td>
+                        </tr>
+                        <tr>
+                            <td>At the beginning of the month</td>
+                            <td>Received during the month</td>
+                            <td>Resolved during the month</td>
+                            <td>Pending at the end of the month</td>
+                            <td>Reasons for pendency</td>
+                        </tr> -->
+                        <!-- <tr>
+                          <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                        </tr> -->
+                        <!-- <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>  -->
+  <!-- Header Menu End -->
+  <div class="toolbar-area hidden-sm hidden-xs">
+    <div class="container-fluid" style="background:#fff;">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="toolbar-contact">
+            <marquee style="margin-top: 5px;font-size: 17px;color: #0F6D41;">
+           
+         <b> <span class="blink_me" style = "color:red;"><b>Important Note!!</b></span>&nbsp::&nbsp&nbsp [1] Moneyplant Investment Advisory is a SEBI Registered Investment Advisor (INA000007924) having Regd. Office in Indore. <b>WE DO NOT HAVE ANY BRANCH OFFICES.</b> [2] Our Official website is www.moneyplantresearch.com, E-Mail Id: contact@moneyplantresearch.com, info@moneyplantresearch.com & support@moneyplantresearch.com;  Our Official Support Contact No.: 91091-93302 & 88188-86453 [3] Our Official Bank Account No. (i) SBI Bank: 37018464449 (ii) Axis Bank: 917020053138401 (iii) Google Pay: 9109193302@Okbizaxis [4] We Do Not Offer Any Assured / Guaranteed / Profit Sharing/Demat Account Or Broking Services / Portfolio Management Services. Clients are never asked for their Banking Or Broking Credentials at Moneyplant.  Do Not Share Your Credit Card / Debit Card / Netbanking Credentials / Demat Account Credentials With Any Of Our Employee. If you are being asked then inform us on 9109193302 or alternatively E-Mail us at support@moneyplantresearch.com [5] Investing In The Market Is Subject To Market Risk Hence Read All Our Disclosure, Disclaimer, And T&C Carefully Before Investing.
+        </b>
+            </marquee>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+   
+<div class="nu-right-cor">
+   <a href="https://www.moneyplantresearch.com/index/kyc-and-risk-profile/" target="_blank" class = "riskbtn">Risk Profile <i class="fa fa-thumbs-up"></i></a>
+  <!--<div class="appointment-cart">
+            <ul class="cart">
+                <li id="riskbtn"></li>
+            </ul>
+        </div>-->
+    <a class="nu-fix-con" href="#" data-toggle="modal" data-target="#myModal">Contact Us</a>
+</div>          
+</header>
+ <!-- Modal -->
+ 
+ 
+ <style>
+ .defult-home .rs-slider .slider-des h1.sl-title {
+    font-size: 46px;}
+
+ </style>
+
+ 
+
+
+<!--
+<!-- Modal -->
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+
+
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content" style="background-color: #000000;border: solid;border-color: #53bd33;">
+      <div class="modal-header"> <a type="button" data-dismiss="modal" style="float: right;font-size: 21px;font-weight: 700;line-height: 1;color: #fff;text-shadow: 0 1px 0 #fff; cursor: pointer;">&times;</a>
+        <h4 class="modal-title" style="color:#fff;">Contact Us</h4>
+      </div>
+      <div class="modal-body">
+        <div class="logo">
+          <center>
+            <img style="padding: 2%;border-radius: 31px;" src="../images/footermplogo.png" alt="moneyplant" />
+          </center>
+          <h3 class="text-center"><strong style="color: #fff;">Sebi No. : INA000007924</strong> </h3>
+        </div>
+		
+
+
+        <form action="https://www.moneyplantresearch.com/index/free-trial" method="post" >
+            
+          <div class="row">
+            <div class="col-md-6">
+              <label style="margin-top: 10px;color: #fff;">Name<span style="color:#FF0000">*</span></label>
+              <input type="text" placeholder="Name*" name="name" class="form-control" required/>
+            </div>
+            <div class="col-md-6">
+              <label style="margin-top: 10px;color: #fff;">Email<span style="color:#FF0000">*</span></label>
+              <input type="text" placeholder="Email*" name="email" class="form-control" required/>
+            </div>
+            <div class="col-md-6">
+              <label style="margin-top: 10px;color: #fff;">City<span style="color:#FF0000">*</span></label>
+              <input type="text" placeholder="City*" name="city" class="form-control" required/>
+            </div>
+            <div class="col-md-6">
+              <label style="margin-top: 10px;color: #fff;">Select Service<span style="color:#FF0000">*</span></label>
+              <select name="services" required class="form-control">
+                <option value="">Select Segment</option>
+                <option value="Currency Futures">Currency Futures</option>
+                <option value="Currency Options">Currency Options</option>
+                <option value="Premium Stock Futures">Premium Stock Futures</option>
+                <option value="Premium Stock Options">Premium Stock Options</option>
+                <option value="Stock Cash Premium">Stock Cash Premium</option>
+                <option value="MCX Futures">MCX Futures</option>
+                <option value="MCX Options">MCX Options</option>
+                <option value="Stock Cash">Stock Cash</option>
+                <option value="Stock Futures">Stock Futures</option>
+                <option value="Stock Options">Stock Options</option>
+                <option value="Options BTST">Options BTST</option>
+                <option value="Index Futures">Index Futures</option>
+                <option value="Index Options">Index Options</option> 
+
+              </select>
+            </div>
+        
+        
+        <div class="col-md-6">
+             <label style="margin-top: 10px;color: #fff;">Input Captcha<span style="color:#FF0000">*</span></label>
+            <input type="text" id="vercode" name="vercode" class="form-control" placeholder="Enter Captcha" required="required">
+          
+            
+        </div>
+        <div class="col-md-3">
+             <label style="margin-top: 10px;color: #FFFF00;">Captcha Code<span style="color:#FFFF00">*</span></label>
+                 <!--<div class="form-control" style="color:#FFFF00" required="required"><img src="https://www.moneyplantresearch.com/classes/captcha.php" id="capimg" ></div>-->
+                 
+                 <div class="form-control" style="color:#FFFF00" required="required">
+                     <img src= "https://www.moneyplantresearch.com/classes/captcha.php" id="capimg" alt='' >
+                 </div>
+         </div>
+        <div class="col-md-3">
+               <label style="margin-top: 10px;color: #fff;">Refresh Captcha<span style="color:#FF0000"></span></label>
+                 <input style="margin-top: 5px;"  type=button onClick=reload(); value='Reload image'>
+                 
+
+
+        </div>
+        
+  
+            <div class="col-md-6">
+              <label style="margin-top: 10px;color: #fff;">Phone<span style="color:#FF0000">*</span></label>
+              <input id="phone" type="text" placeholder="Phone*" name="phone" class="form-control" required/>
+            </div>
+            <div class="col-md-6">
+              <label style="margin-top: 10px;color: #fff;">OTP <span style="color:#FF0000">*</span></label>
+              <strong></strong>
+              <input id="otp" type="text" placeholder="OTP here*" class="form-control" required/>
+            </div>
+          </div>
+        
+        <div style="margin-top:10px;" >
+          <input type="checkbox"/>
+          <span style="color: #fff;"> &nbsp;I hereby authorize Moneyplant Investment Advisory to call me or send service or promotional messages on my mobile no.  I have read all the Terms & Conditions and understood it. </span> </div>
+      </div>
+      <div class="modal-footer">
+        <!--<input type="submit" id="testsubmit" style="background:#056d3f;color: #fff;-->
+       
+       
+
+        
+        <input type="submit" id="free_trial_sbumit" style="background:#056d3f;color: #fff;
+    font-size: 18px;"class="btn btn-block" name="free_trial_sbumit" value="SUBMIT"/>
+      </div>
+	  </form>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+function reload()
+{
+    img = document.getElementById("capimg");
+    img.src="https://www.moneyplantresearch.com/classes/captcha.php?rand_number=" + Math.random();
+  
+    
+}
+</script>
+    
+<script type="text/javascript">
+
+ if(sessionStorage.getItem('#myModal') == null){
+ $("#myModal").modal('show');
+ sessionStorage.setItem('#myModal', 'true');
+ }
+
+</script>
+// <script type="text/javascript">
+
+
+$(document).ready(function() {
+
+      $('#testsubmit').attr('disabled' , true);
+      $("#otp").hide();
+
+
+$("#phone").change(function(){ 
+ var mobile = $(this).val();
+ var molen =  this.value.length;
+ 
+if(molen == 10){
+  $.ajax({
+url: "../classes/otp.php",
+type: "POST",
+data: {mobile:mobile},
+dataType: "json",
+success:function(data){
+  var tt = data.otp;
+//   console.log(tt);
+  
+  var xx = '';
+//   console.log(xx);
+//   console.log(tt);
+
+   alert('otp has been sent your mobile');
+  $("#otp").show();
+   $("#otp").keyup(function(){ 
+   var otp = $(this).val();
+   var otplen =  this.value.length;
+   if(otplen == 5){
+	 if(tt == otp)
+	 {
+  
+	 $('#testsubmit').attr('disabled' , false);
+	 }
+	 else{
+	  alert('invalid otp entered');
+	 }
+	}
+	});
+   },
+	  error:function (){
+		console.log();
+	  },
+});
+}
+ });
+ 
+
+});
+  
+</script>
+<style>
+.free{background: #0f6d41;
+    padding: 8px 12px;
+    color: #fff;
+    border: 0;
+    font-size: 17px;
+    position: fixed;
+    left: -82px;
+    top: 315px;
+    transform: rotate(-450deg);
+    z-index: 111;
+    border-radius: 5px;}
+</style>-->
+
+<!--Header End-->
+<!-- Main content Start -->
+
+        
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container" style="margin-bottom:-32px">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://in.tradingview.com" rel="noopener" target="_blank"><span class="blue-text"></span></a></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {
+  "symbols": [
+    {
+      "description": "NIFTY",
+      "proName": "NSE:NIFTY"
+    },
+    {
+      "description": "SENSEX",
+      "proName": "BSE:SENSEX"
+    },
+    {
+      "description": "BAJAJAUTO",
+      "proName": "BSE:BAJAJ_AUTO"
+    },
+    {
+      "description": "INFY",
+      "proName": "BSE:INFY"
+    },
+    {
+      "description": "HINDUNILVR",
+      "proName": "BSE:HINDUNILVR"
+    },
+    {
+      "description": "BAJAJFINSV",
+      "proName": "BSE:BAJAJFINSV"
+    },
+    {
+      "description": "DRREDDY",
+      "proName": "BSE:DRREDDY"
+    },
+    {
+      "description": "TCS",
+      "proName": "BSE:TCS"
+    },
+    {
+      "description": "HDFCBANK",
+      "proName": "BSE:HDFCBANK"
+    },
+    {
+      "description": "RELIANCE",
+      "proName": "BSE:RELIANCE"
+    },
+    {
+      "description": "NESTLEIND",
+      "proName": "BSE:NESTLEIND"
+    },
+    {
+      "description": "SUNPHARMA",
+      "proName": "BSE:SUNPHARMA"
+    },
+    {
+      "description": "ASIANPAINT",
+      "proName": "BSE:ASIANPAINT"
+    },
+    {
+      "description": "HCLTECH",
+      "proName": "BSE:HCLTECH"
+    },
+    {
+      "description": "BHARTIARTL",
+      "proName": "BSE:BHARTIARTL"
+    },
+    {
+      "description": "ULTRACEMCO",
+      "proName": "BSE:ULTRACEMCO"
+    },
+    {
+      "description": "ITC",
+      "proName": "BSE:ITC"
+    },
+    {
+      "description": "HDFC",
+      "proName": "BSE:HDFC"
+    },
+    {
+      "description": "TECHM",
+      "proName": "BSE:TECHM"
+    },
+    {
+      "description": "LT",
+      "proName": "BSE:LT"
+    },
+    {
+      "description": "INDUSINDBK",
+      "proName": "BSE:INDUSINDBK"
+    },
+    {
+      "description": "ICICIBANK",
+      "proName": "BSE:ICICIBANK"
+    },
+    {
+      "description": "KOTAKBANK",
+      "proName": "BSE:KOTAKBANK"
+    },
+    {
+      "description": "AXISBANK",
+      "proName": "BSE:AXISBANK"
+    },
+    {
+      "description": "MARUTI",
+      "proName": "BSE:MARUTI"
+    },
+    {
+      "description": "NTPC",
+      "proName": "BSE:NTPC"
+    },
+    {
+      "description": "M&M",
+      "proName": "BSE:M_M"
+    },
+    {
+      "description": "POWERGRID",
+      "proName": "BSE:POWERGRID"
+    },
+    {
+      "description": "SBIN",
+      "proName": "BSE:SBIN"
+    },
+    {
+      "description": "ONGC",
+      "proName": "BSE:ONGC"
+    }
+  ],
+  "showSymbolLogo": true,
+  "colorTheme": "dark",
+  "isTransparent": false,
+  "displayMode": "adaptive",
+  "locale": "in"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+<div class="main-content">
+  <!-- Slider Start -->
+  <div id="rs-slider" class="rs-slider">
+    <div class="bend niceties">
+      <div id="nivoSlider" class="slides"> <img src="../images/slider/home1.jpg" alt="Equity market research" title="#slide-1" /> <img src="../images/slider/slide_2.jpg" alt="Market Advisor" title="#slide-2" /> </div>
+     
+    
+     
+      <!-- Slide 1 -->
+      <div id="slide-1" class="slider-direction">
+        <div class="display-table">
+          <div class="display-table-cell">
+            <div class="container">
+              <div class="slider-des">
+                <h1 class="sl-title"> <span class="white-color">Applying Appropriate </span> Market Research Solutions</h1>
+                <div class="sl-desc"> It is not necessary to do extraordinary things to get extraordinary results. </div>
+              </div>
+              <div class="slider-botton">
+                <ul>
+                  <li class="mr-25"><a href="https://www.moneyplantresearch.com/index/all-services" class="readon border white-btn">Read More</a></li>
+                  <!--<li><a href="https://www.moneyplantresearch.com/index/get-in-touch" style="background:#6a9708;" class="readon border white-color">CONTACT US</a></li>-->
+                  
+                  <li><a href="#" style="background:#6a9708;" class="readon border white-color" data-toggle="modal" data-target="#myModal">CONTACT US</a></li>
+                  
+                  
+                  
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Slide 2 -->
+      <div id="slide-2" class="slider-direction">
+        <div class="display-table">
+          <div class="display-table-cell">
+            <div class="container">
+              <div class="slider-des">
+                <h1 class="sl-title"> <span class="white-color">Money Doesn't Come</span> Without Guidance</h1>
+                <div class="sl-desc"> Price is what you pay; value is what you get. </div>
+              </div>
+              <div class="slider-botton">
+                <ul>
+                  <li class="mr-25"><a href="#" class="readon border white-btn">Read More</a></li>
+                  <li><a href="#" style="background:#6a9708;" class="readon border white-color" data-toggle="modal" data-target="#myModal">CONTACT US</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Slider End -->
+  
+ 
+  <!-- Calltoaction Start -->
+  <div id="rs-cta" class="rs-cta primary-bg">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          <div class="cta-content">
+            <h3>WE OFFER DIFFERENT SERVICES</h3>
+            <p> We are better known for our innovative financial solutions designed keeping domestic customer base in focus. Our focus is widely spread in all areas of investment instruments like Equity, Derivative, Commodities traded in Mcx and Ncdex and domestic currency traded in mcx-sx.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!--  <section id="rs-team" class="rs-team sec-spacer gray-color">-->
+<!--<div class="container">-->
+    
+<!--    <table>-->
+        
+<!--        <td width=80%>-->
+<!--     <div class="row grid-style-3">-->
+         
+<!--         <h3>SEBI Complaint Status - </h3>-->
+<!--            <table class="table_box_cb table table-bordered">-->
+<!--                        <tr>-->
+<!--                            <td class="tr_heading_cb" colspan="5"><h4></h4></td>-->
+                           
+<!--                        </tr>-->
+<!--                        <tr>-->
+<!--                            <td>At the beginning of the month</td>-->
+<!--                            <td>Received during the month</td>-->
+<!--                            <td>Resolved during the month</td>-->
+<!--                            <td>Pending at the end of the month</td>-->
+<!--                            <td>Reasons for pendency</td>-->
+<!--                        </tr>-->
+<!--                        <tr>-->
+<!--                            <td></td>-->
+<!--                            <td></td>-->
+<!--                            <td></td>-->
+<!--                            <td></td>-->
+<!--                            <td></td>-->
+<!--                        </tr>-->
+<!--                         <tr>-->
+<!--                            <td>0</td>-->
+<!--                            <td>0</td>-->
+<!--                            <td>0</td>-->
+<!--                            <td>0</td>-->
+<!--                            <td>0</td>-->
+<!--                        </tr>-->
+<!--                    </table>-->
+<!--                </div>-->
+<!--           </td>-->
+<!--            <td width=20%></td>-->
+          
+<!--          </table>-->
+<!--    </div>-->
+    
+<!--    </section>-->
+  
+  <section id="rs-team" class="rs-team sec-spacer gray-color">
+    <div class="container">
+      <div class="team-carousel owl-carousel owl-navigation-yes">
+        <!-- Style 1 Start -->
+        <div class="team-item">
+          <div class="row grid-style-1">
+            <div class="team-item-wrap">
+              <div class="team-img"> <a href="#"><img src="../images/equity.jpg" class="img_team" alt="Equity & Derivative" style="height: 360px;"></a>
+                <div class="normal-text">
+                  <h3 class="team-name"> <a href="#"> Equity & Derivative</a> </h3>
+                  <span></span> </div>
+              </div>
+              <div class="team-content">
+                <div class="overly-border"></div>
+                <div class="display-table">
+                  <div class="display-table-cell">
+                    <h3 class="team-name"> <a href="#">Equity & Derivative</a> </h3>
+                    <span></span>
+                    <hr/>
+                    <p style="text-align:justify;">We understand your financial needs better than anybody else that's why we deliberately applied our focused and innovative approach while preparing our financial solutions. Our wide range of products fits in your requirement.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="team-item">
+          <div class="row grid-style-1">
+            <div class="team-item-wrap">
+              <div class="team-img"> <a href="#"><img src="../images/forex.jpg" class="img_team" alt="Forex" style="height: 360px;"></a>
+                <div class="normal-text">
+                  <h3 class="team-name"> <a href="#"> Forex</a> </h3>
+                  <span></span> </div>
+              </div>
+              <div class="team-content">
+                <div class="overly-border"></div>
+                <div class="display-table">
+                  <div class="display-table-cell">
+                    <h3 class="team-name"> <a href="#"> Forex</a> </h3>
+                    <span></span>
+                    <hr/>
+                    <p style="text-align:justify;">We're a leading forex service provider in domestic market. Our expertise offers recommendation in all 4 currencies traded in Mcx-Sx i.e. USD-INR / EURO-NR / GBP-INR / YEN-INR.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="team-item">
+          <div class="row grid-style-1">
+            <div class="team-item-wrap">
+              <div class="team-img"> <a href="#"><img src="../images/commodity.jpg" class="img_team" alt="Commodity" style="height: 360px;"></a>
+                <div class="normal-text">
+                  <h3 class="team-name"> <a href="#"> Commodity</a> </h3>
+                  <span></span> </div>
+              </div>
+              <div class="team-content">
+                <div class="overly-border"></div>
+                <div class="display-table">
+                  <div class="display-table-cell">
+                    <h3 class="team-name"> <a href="#">Commodity</a> </h3>
+                    <span></span>
+                    <hr/>
+                    <p style="text-align:justify;">Dynamically changing global environment, government policies and commodity inventory plays a vital role. our dedicated research team tracks even micro changes happening in domestic and global market.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="team-item">
+          <div class="row grid-style-1">
+            <div class="team-item-wrap">
+              <div class="team-img"> <a href="#"><img src="../images/pwmp.jpg" class="img_team" alt="Private wealth Plan" style="height: 360px;"></a>
+                <div class="normal-text">
+                  <h3 class="team-name"> <a href="#"> Private wealth Plan</a> </h3>
+                  <span></span> </div>
+              </div>
+              <div class="team-content">
+                <div class="overly-border"></div>
+                <div class="display-table">
+                  <div class="display-table-cell">
+                    <h3 class="team-name"> <a href="#">Private wealth Plan</a> </h3>
+                    <span></span>
+                    <hr/>
+                    <p style="text-align:justify;">Private Wealth Advisors partner with senior executives to address client's most complex wealth challenges. Clients benefit from our specialized expertise managing in particular, Stocks, Forex, commodity & stock holdings.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+              
+
+  <section>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12"style="padding-top:50px; padding-bottom:50px;">
+              
+      <iframe src="https://widget.myfxbook.com/widget/calendar.html?lang=en&impacts=0,1,2,3&countries=Australia,Belgium,Canada,China,France,Germany,Italy,Japan,Mexico,New%20Zealand,South%20Africa,Spain,Switzerland,United%20Kingdom,United%20States" style="border: 0; width:100%; height:500px;"></iframe>
+          <div style="margin-top: 10px;">
+            <div style="width: fit-content; margin: auto;font-family: roboto,sans-serif!important; font-size: 13px; color: #666666;">
+                        </div></div>
+      </div>
+      
+     </div>
+     </div>
+  </section>
+  <section class="video-sec loaded">
+    <div class="overly">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="sec-title white-text">
+              <h4 style="color:#fff;">Who We Are & What We Do...?</h4>
+              <h3>Symbol Of Wealth</h3>
+              <hr/>
+              <p style="text-align:justify;">Moneyplant Investment Advisor is an organization of young, certified, equipped and dynamic professionals who have mastered financial market and redefined trading pattern with their innovative approach.</p>
+              <p style="text-align:justify;">Our dedicated research team carries out intensive technical research in domestic financial market which is blended with possible impact of global and domestic fundamentals.</p>
+              <h4 style="color:#83b614;"><i class="fa fa-thumbs-up"></i> Dedicated Team | <i class="fa fa-thumbs-up"></i> Best Advisors | <i class="fa fa-thumbs-up"></i> 24/7 Supports</h4>
+            </div>
+          </div>
+          <div class="col-md-6 mpt-40"> <img src="../images/blog/5.jpg" alt="Investment Advisor" /> </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class="our-hostory-section" style="padding-top:50px; padding-bottom:50px;">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <!-- Testimonials Section Start Here -->
+          <h3 class="page-title">Testimonial</h3>
+          <div class="rs-testimonial-section mpt-20">
+            <div class="testi-item">
+              <div class="row">
+                <div class="col-md-3">
+                  <div class="item-img"> <img src="../images/testimonials-icon.png" alt="testimonials"> </div>
+                </div>
+                <div class="col-md-9">
+                  <div class="item-detail">
+                    <p> <sup> <i class="fa fa-quote-left"></i> </sup> Moneyplant Investment Advisor is truly living up to it's name. They helped me earning excellent returns in Futures market. It's been three months now and I have been able to earn consistently unexpected  returns. <sup> <i class="fa fa-quote-right"></i> </sup> </p>
+                  </div>
+                  <div class="title"> A Good Advisory Company </div>
+                  <div class="designation"> A. Srinivas </div>
+                  <div class="stars">
+                    <ul>
+                      <li><i class="fa fa-star fa-spin"></i></li>
+                      <li><i class="fa fa-star animated infinite jello"></i></li>
+                      <li><i class="fa fa-star animated infinite jello"></i></li>
+                      <li><i class="fa fa-star animated infinite jello"></i></li>
+                      <li><i class="fa fa-star animated infinite jello"></i></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- Testimonials Section end Here -->
+        </div>
+        <div class="col-sm-6">
+          <h3 class="page-title">Our Company Values</h3>
+          <div class="panel-group mb-0 mpb-40" id="accordion">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title"> <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Our Company Quality</a> </h4>
+              </div>
+              <div id="collapseOne" class="panel-collapse collapse in">
+                <div class="panel-body">
+                  <p style="text-align:justify;"> At Moneyplant Investment Advisor we believe that a good product or service is not the one which meets our client's expectations. Rather, it should exceed our client's expectation and deliver excellent return on their investment.</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTen">Our Company Commitment</a> </h4>
+              </div>
+              <div id="collapseTen" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p style="text-align:justify;"> We are committed to deliver world class financial solutions to our clients and keep their satisfaction bar growing.</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven">Our Company Success</a> </h4>
+              </div>
+              <div id="collapseEleven" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p style="text-align:justify;"> For us success is to exceed client�s expectation, satisfying their needs, winning their trust and become a brand that they can confidently refer to their family and friends.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="counter-top-area defult-style sec-spacer">
+    <div class="overlay"></div>
+    <div class="container">
+      <h2 style="color: #000;
+    font-weight: bold;">BASIC OF INVESTING GUIDE</h2>
+      <div class="row">
+        <div class="col-sm-6" style="margin-top:20px;">
+          <div class="include">
+            <div class="panel-group mb-0" id="accordion1">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4 class="panel-title"> <a  href="https://www.moneyplantresearch.com/index/investingguide"> Risk Assessment </a> </h4>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6" style="margin-top:20px;">
+          <div class="include">
+            <div class="panel-group mb-0" id="accordion1">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4 class="panel-title"> <a href="https://www.moneyplantresearch.com/index/investingguide"> Be Consistent </a> </h4>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6" style="margin-top:20px;">
+          <div class="include">
+            <div class="panel-group mb-0" id="accordion1">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4 class="panel-title"> <a href="https://www.moneyplantresearch.com/index/investingguide"> Stay Updated </a> </h4>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6" style="margin-top:20px;">
+          <div class="include">
+            <div class="panel-group mb-0" id="accordion1">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4 class="panel-title"> <a href="https://www.moneyplantresearch.com/index/investingguide"> Be Disciplined </a> </h4>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6" style="margin-top:20px;">
+          <div class="include">
+            <div class="panel-group mb-0" id="accordion1">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4 class="panel-title"> <a href="https://www.moneyplantresearch.com/index/investingguide"> Keep aside your Emotions </a> </h4>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6" style="margin-top:20px;">
+          <div class="include">
+            <div class="panel-group mb-0" id="accordion1">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4 class="panel-title"> <a href="https://www.moneyplantresearch.com/index/investingguide"> Only Invest Your Surplus Funds </a> </h4>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6" style="margin-top:20px;">
+          <div class="include">
+            <div class="panel-group mb-0" id="accordion1">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4 class="panel-title"> <a href="https://www.moneyplantresearch.com/index/investingguide"> Monitor Your Portfolio </a> </h4>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6" style="margin-top:20px;">
+          <div class="include">
+            <div class="panel-group mb-0" id="accordion1">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4 class="panel-title"> <a href="https://www.moneyplantresearch.com/index/investingguide"> Seek Professional Help </a> </h4>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--<div class="support-section" style="padding-top:50px;padding-bottom:50px;">-->
+  <!--muted-->
+  <!--  <div class="container">-->
+  <!--    <div class="row">-->
+        <!-- end -->
+  <!--      <div class="col-md-6"> <img src="../images/work/personal.jpg" alt="payment"> </div>-->
+  <!--      <div class="col-md-6">-->
+          <!--<form id="quick-form" method="post" action="http://rstheme.com/products/html/bstart/mailer.php">-->
+          <!--    <form id="quick-form" method="" action="">-->
+          <!--  <div class="need-query">-->
+          <!--    <h3>Need a Quick Query</h3>-->
+          <!--    <p>Thank you for your interest in Moneyplant Research.To Contact us, Please complete the form below.you will receive an automated response confirming that we have received your message.</p>-->
+          <!--    <hr/>-->
+          <!--  </div>-->
+          <!--  <div class="row">-->
+          <!--    <div class="col-md-6">-->
+          <!--      <input type="text" id="name" name="name" placeholder="FullName" required="">-->
+          <!--      <input type="email" id="email" name="email" placeholder="Emaill Address" required="">-->
+          <!--      <input type="text" id="number" name="number" placeholder="Phone Number" required="">-->
+          <!--    </div>-->
+          <!--    <div class="col-md-6">-->
+          <!--      <textarea id="message" name="message"></textarea>-->
+                <!--<input class="submit" type="submit" value="SUBMIT">-->
+          <!--      <input class="text" type="text" value="text">-->
+          <!--    </div>-->
+          <!--  </div>-->
+          <!--</form>-->
+  <!--      </div>-->
+  <!--    </div>-->
+  <!--  </div>-->
+  <!--</div>-->
+  <div class="counter-top-area sec-spacer">
+    <div class="overlay" style="background:#36423c;"></div>
+    <div class="container">
+      <div class="sec-title white-text text-center">
+        <h2>Our Past Performance's</h2>
+      </div>
+      <div class="row">
+       <div class="rs-count">
+          
+            <div class="col-md-3 col-sm-6  wow fadeInUp" data-wow-duration=".9s" data-wow-delay="300ms" style="visibility: visible; animation-duration: 0.9s; animation-delay: 300ms; animation-name: fadeInUp;">
+            <div class="rs-counter-list"> <a href=""><i class="fa fa-file-excel-o"></i></a>
+              <hr/>
+              <a href="../uploads/past-performances/stock-options.xls">
+              <h4>STOCK OPTIONS <i class="fa fa-download"></i></h4>
+              </a> </div>
+          </div><div class="col-md-3 col-sm-6  wow fadeInUp" data-wow-duration=".9s" data-wow-delay="300ms" style="visibility: visible; animation-duration: 0.9s; animation-delay: 300ms; animation-name: fadeInUp;">
+            <div class="rs-counter-list"> <a href=""><i class="fa fa-file-excel-o"></i></a>
+              <hr/>
+              <a href="../uploads/past-performances/index-option.xls">
+              <h4>INDEX OPTIONS <i class="fa fa-download"></i></h4>
+              </a> </div>
+          </div><div class="col-md-3 col-sm-6  wow fadeInUp" data-wow-duration=".9s" data-wow-delay="300ms" style="visibility: visible; animation-duration: 0.9s; animation-delay: 300ms; animation-name: fadeInUp;">
+            <div class="rs-counter-list"> <a href=""><i class="fa fa-file-excel-o"></i></a>
+              <hr/>
+              <a href="../uploads/past-performances/stock-cash.xls">
+              <h4>STOCK CASH <i class="fa fa-download"></i></h4>
+              </a> </div>
+          </div><div class="col-md-3 col-sm-6  wow fadeInUp" data-wow-duration=".9s" data-wow-delay="300ms" style="visibility: visible; animation-duration: 0.9s; animation-delay: 300ms; animation-name: fadeInUp;">
+            <div class="rs-counter-list"> <a href=""><i class="fa fa-file-excel-o"></i></a>
+              <hr/>
+              <a href="../uploads/past-performances/stock-futures.xls">
+              <h4>STOCK FUTURES <i class="fa fa-download"></i></h4>
+              </a> </div>
+          </div>          <div class="col-md-12 wow fadeInUp text-center" data-wow-duration=".9s" data-wow-delay="300ms" style="visibility: visible; animation-duration: 0.9s; animation-delay: 300ms; animation-name: fadeInUp; margin-top:20px;"> <a href="https://www.moneyplantresearch.com/index/performance" class="readon border white">View All Past Performances</a> </div>
+        </div>
+      </div>
+    </div>
+    <hr/>
+
+    <div class="container" style="margin-top:50px;">
+      <div class="sec-title white-text text-center">
+        <h2>Our Reports's</h2>
+      </div>
+      <div class="row">
+        <div class="rs-count">
+          <div class="col-md-3 col-sm-6  wow fadeInUp" data-wow-duration=".9s" data-wow-delay="300ms" style="visibility: visible; animation-duration: 0.9s; animation-delay: 300ms; animation-name: fadeInUp;">
+            <div class="rs-counter-list"> <a href=""><i class="fa fa-file-excel-o"></i></a>
+              <hr/>
+              <a href="../uploads/daily-report/weekly-derivatives.pdf">
+              <h4>WEEKLY DERIVATIVE REPORT <i class="fa fa-download"></i></h4>
+              </a> </div>
+          </div><div class="col-md-3 col-sm-6  wow fadeInUp" data-wow-duration=".9s" data-wow-delay="300ms" style="visibility: visible; animation-duration: 0.9s; animation-delay: 300ms; animation-name: fadeInUp;">
+            <div class="rs-counter-list"> <a href=""><i class="fa fa-file-excel-o"></i></a>
+              <hr/>
+              <a href="../uploads/daily-report/commodity.pdf">
+              <h4>WEEKLY COMMODITY REPORT <i class="fa fa-download"></i></h4>
+              </a> </div>
+          </div><div class="col-md-3 col-sm-6  wow fadeInUp" data-wow-duration=".9s" data-wow-delay="300ms" style="visibility: visible; animation-duration: 0.9s; animation-delay: 300ms; animation-name: fadeInUp;">
+            <div class="rs-counter-list"> <a href=""><i class="fa fa-file-excel-o"></i></a>
+              <hr/>
+              <a href="../uploads/daily-report/equity.pdf">
+              <h4>DAILY EQUITY REPORT <i class="fa fa-download"></i></h4>
+              </a> </div>
+          </div><div class="col-md-3 col-sm-6  wow fadeInUp" data-wow-duration=".9s" data-wow-delay="300ms" style="visibility: visible; animation-duration: 0.9s; animation-delay: 300ms; animation-name: fadeInUp;">
+            <div class="rs-counter-list"> <a href=""><i class="fa fa-file-excel-o"></i></a>
+              <hr/>
+              <a href="../uploads/daily-report/derivatives.pdf">
+              <h4>DAILY DERIVATIVE REPORT <i class="fa fa-download"></i></h4>
+              </a> </div>
+          </div>          <div class="col-md-12 wow fadeInUp text-center" data-wow-duration=".9s" data-wow-delay="300ms" style="visibility: visible; animation-duration: 0.9s; animation-delay: 300ms; animation-name: fadeInUp; margin-top:20px;"> <a href="https://www.moneyplantresearch.com/index/reports" class="readon border white">View All Daily Reports</a> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+// swal("Head", "Message", "success");
+
+swal("ज़रूरी सूचना !",  "मनीप्लांट एडवाइजर की ऑफिशल वेबसाइट www.moneyplantresearch.com है और कोई भी अन्य वेबसाइट या शाखा नहीं है। हमारे सभी वित्तीय लेनदेन के लिए वर्तमान में केवल 2 बैंक खाते हैं SBI : 37018464449 और एक्सिस बैंक : 917020053138401, UPI ID: 9303274880@upi,  9109193302@okbizaxis कृपया पेमेंट करने से पहले हमारी वेबसाइट के पेमेंट सेक्शन (https://www.moneyplantresearch.com/index/pay) से डिटेल्स वेरीफाई कर लें।  ग्राहकों को सावधान किया जाता है कि हमारे साथ किसी भी व्यक्ति या संस्था के संलग्न होने के दावे पर विश्वास न करें। , कृपया सतर्कता बनाए रखें और किसी भी जानकारी की पुष्टि करें ताकि किसी भी फ्रॉड से बचा जा सके।", "success");
+
+
+</script><!-- Footer Start -->
+<div style="background:#6a9708;" id="rs-cta" class="rs-cta primary-bg" >
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-sm-12 col-xs-12">
+        <div class="cta-content">
+          <h3>Start Trading With us.</h3>
+          <p> Get started with your investments today!! </p>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-12 col-xs-12">
+        <div class="cta-button text-right"> <a href="#" style="background: #2b6d41;" class="readon border white" data-toggle="modal" data-target="#myModal">CONTACT NOW</a> </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="toolbar-area hidden-sm hidden-xs">
+  <div class="container-fluid" style="background:#fff;">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="toolbar-contact">
+          <marquee style="margin-top: 11px;font-size: 19px;color: #0F6D41;">
+          "Security Market Investments are always Subject To Market Risk And Past Performance Is Not a Guarantee Of Future Performance, before taking any services of Moneyplant Investment Advisor clients should read, Disclaimer, Disclosure, Term of use & Privacy policy of the Company.
+          </marquee>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<footer id="rs-footer" class="rs-footer">
+  <div class="footer-top" style="background: #212832;">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="about-widget"> <img src="https://www.moneyplantresearch.com/images/footermplogo.png" alt="MoneyPlant">
+            <p style="text-align:justify;"> Moneyplant Investment Advisor is a research house and an investment advisory company carrying out operations in the Indian Equity, Forex and commodity market.</p>
+            <img style="margin-top:8%;" src="https://www.moneyplantresearch.com/images/partner.jpg" alt="certifications" /> </div>
+        </div>
+        <div class="col-md-2">
+          <h5 class="footer-title">Useful Links</h5>
+          <ul class="sitemap-widget">
+            <li class="active"><a href="https://www.moneyplantresearch.com">Home</a></li>
+            <li><a href="https://www.moneyplantresearch.com/index/about">About</a></li>
+            <!-- <li><a href="https://www.moneyplantresearch.com/index/all-services">Services</a></li> -->
+            <!--<li><a href="https://www.moneyplantresearch.com/index/our-pricings">Pricings</a></li>-->
+            <li><a href="https://www.moneyplantresearch.com/index/pay">Payment</a></li>
+            <li><a href="https://www.moneyplantresearch.com/index/reports">Reports</a></li>
+         
+            <li><a href="https://www.moneyplantresearch.com/index/performance">Past Performances</a></li>
+            <li><a href="https://www.moneyplantresearch.com/index/get-in-touch">Contact</a></li>
+            <li><a href="https://www.moneyplantresearch.com/index//pages/success/login/official/login.php">Official</a></li>
+            <li><a href="https://www.moneyplantresearch.com/index/lodge-complaint">Lodge Complaint</a></li>
+            <li><a href="https://www.moneyplantresearch.com/index/annexure-a">Investor Charter</a></li>
+            <li><a href="https://www.moneyplantresearch.com/index/annexure-b">Complaint Data</a></li>
+            
+            
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <h5 class="footer-title">Quick Links</h5>
+          <ul class="sitemap-widget">
+              <li class="active"><a href="https://www.moneyplantresearch.com/index/risk-profile/" target="_blank">Risk Profile</a></li>
+            <li><a href="https://www.moneyplantresearch.com/index/kyc-and-risk-profile/" target="_blank">KYC & Risk Profile</a></li>
+            <li><a href="https://www.moneyplantresearch.com/index/signbox" target="_blank">Service Agreement</a></li>
+            <li><a href="https://www.moneyplantresearch.com/index/support-and-grievance">Support & Grievance</a></li>
+            <!-- <li><a href="https://www.moneyplantresearch.com/index/refund-policy">Refund Policy</a></li> -->
+            <li><a href="https://www.moneyplantresearch.com/index/certifications">Certifications</a></li>
+            <li><a href="https://www.moneyplantresearch.com/index/terms">Term's of Use</a></li>
+            <li><a href="https://www.moneyplantresearch.com/index/privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://www.moneyplantresearch.com/index/disclaimer">Disclaimer</a></li>
+            <li><a href="https://www.moneyplantresearch.com/index/disclouser">Disclouser</a></li>
+          </ul>
+        </div>
+        <div class="col-md-4" style="">
+		  <h5 class="footer-title">Contact Us At</h5>
+         <ul class="footer-address">
+              <li><i class="fa fa-phone"></i><a href="tel:+91-91091-93302"> +91-91091-93302</a></li>
+              <br/>
+              <li><i class="fa fa-phone"></i><a href="tel:+91-88188-86453"> +91-88188-86453</a></li>
+              <br/>
+              <li><i class="fa fa-envelope-o"></i><a href="mailto:contact@moneyplantresearch.com"> contact@moneyplantresearch.com </a></li>
+              <br/>
+              <li><i class="fa fa-envelope-o"></i><a href="mailto:info@moneyplantresearch.com"> info@moneyplantresearch.com</a></li>
+              <br/>
+              <li><i class="fa fa-envelope-o"></i><a href="mailto:support@moneyplantresearch.com"> support@moneyplantresearch.com</a></li><br>
+            
+            <li>Registered Name: Moneyplant Investment Advisory Prop. Amit Malviya </li>
+<li>Type of Registration: Individual</li>
+<li>Registration Number:	INA000007924</li>
+<li>Validity: Perpetual</li><br>
+<li>Address: Plot No.16, Ratanlok Colony, Scheme No.53, Indore, Madhya Pradesh, 452010</li><br>
+<li>Contact details of Principal Officer: 9109193302, info@moneyplantresearch.com</li>
+            </ul>
+            
+            <div> Nearest SEBI Office Address : 104-105, 1st Floor, Satguru Parinay, AB Road, Opposite C-21 Mall, Indore, Madhya Pradesh 452010</div>
+            <br><div> GST No.23BJDPM3612D1ZU </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom" style="background: #0F6D41;">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-sm-6">
+          <div class="copyright">
+            <p>&copy; 2023 <a href="#">Moneyplant Investment Advisor</a>. SEBI Registration No.:INA000007924</p>
+          <script id="godaddy-security-s" src="https://cdn.sucuri.net/badge/badge.js" data-s="2048" data-i="a4327c3368336bac6f6a66f3a2dbabfe80aaea2701" data-p="r" data-c="l" data-t="g"></script>
+          </div>
+        </div>
+        <div class="col-md-6 col-sm-6">
+          <div class="text-right ft-bottom-right">
+            <div class="footer-bottom-share">
+              <ul>
+                <li><a href="https://www.facebook.com/MoneyplantInvestmentAdvisor" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://www.instagram.com/moneyplantia" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                <li><a href="https://twitter.com/Moneyplant_IA" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                <li><a href=" https://www.linkedin.com/in/moneyplantia" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- Footer End -->
+<!-- start scrollUp  -->
+<div id="scrollUp"> <i class="fa fa-angle-up"></i> </div>
+<!-- modernizr js -->
+<script src="../js/modernizr-2.8.3.min.js"></script>
+<!-- jquery latest version -->
+<script src="../js/jquery.min.js"></script>
+<!-- bootstrap js -->
+<script src="../js/bootstrap.min.js"></script>
+<!-- Menu js -->
+<script src="../js/rsmenu-main.js"></script>
+<!-- op nav js -->
+<script src="../js/jquery.nav.js"></script>
+<!-- owl.carousel js -->
+<script src="../js/owl.carousel.min.js"></script>
+<script src="../js/slick.min.js"></script>
+<!-- isotope.pkgd.min js -->
+<script src="../js/isotope.pkgd.min.js"></script>
+<!-- imagesloaded.pkgd.min js -->
+<script src="../js/imagesloaded.pkgd.min.js"></script>
+<!-- wow js -->
+<script src="../js/wow.min.js"></script>
+<!-- counter top js -->
+<script src="../js/waypoints.min.js"></script>
+<!-- Skill bar js -->
+<script src="../js/skill.bars.jquery.js"></script>
+<script src="../js/jquery.counterup.min.js"></script>
+<!-- video js -->
+<script src="../js/jquery.mb.YTPlayer.min.js"></script>
+<!-- magnific popup -->
+<script src="../js/jquery.magnific-popup.min.js"></script>
+<!-- Nivo slider js -->
+<script src="../inc/custom-slider/js/jquery.nivo.slider.js"></script>
+<!-- plugins js -->
+<script src="../js/plugins.js"></script>
+<!-- contact form js -->
+<script src="../js/contact.form.html"></script>
+<!-- one page js -->
+<script src="../js/jquery.singlePageNav.min.js"></script>
+<!-- color js -->
+<script src="../js/color-style.js"></script>
+<!-- main js -->
+<script src="../js/main.js"></script>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+
+
+<!-- Include Date Range Picker -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/js/bootstrap-datepicker.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/css/bootstrap-datepicker3.css"/>
+
+<script>
+	$(document).ready(function(){
+		var date_input=$('input[name="dob"]'); //our date input has the name "date"
+		var container=$('.bootstrap-iso form').length>0 ? $('.bootstrap-iso form').parent() : "body";
+		date_input.datepicker({
+			format: 'mm/dd/yyyy',
+			container: container,
+			todayHighlight: true,
+			autoclose: true,
+		})
+	})
+</script>
+<script>
+  var x =0;
+  var timer=setInterval(function(){
+    if(document.querySelector('[class="alert alert-success"]')!=null ){
+      if(x==0){
+       gtag('event', 'conversion', {'send_to': 'AW-775193338/ievYCP-wn58BEPqF0vEC'});
+        x=1;
+      }
+      clearInterval(timer);
+    }
+
+  })
+</script>
+</body>
+</html>

@@ -1,0 +1,75 @@
+/* Add necessary styles for your components */
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background: #004d00;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  nav {
+    background: #007700;
+    color: white;
+    padding: 10px;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav li {
+    margin: 0 10px;
+  }
+  
+  .hero {
+    background: url('your-image-url') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+  }
+  
+  .hero-text h1 {
+    font-size: 2.5em;
+  }
+  
+  .hero-text p {
+    font-size: 1.2em;
+  }
+  
+  .hero-text button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    background: #ff9900;
+    color: white;
+    cursor: pointer;
+  }
+  
+  footer {
+    background: #004d00;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  /* App.css */
+
+.economic-calendar {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    margin: 20px 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .economic-calendar iframe {
+    border: none;
+  }
+  

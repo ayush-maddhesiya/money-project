@@ -1,0 +1,43 @@
+.about-us {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    background-color: #394d6d; /* Adjust based on your design */
+    color: white;
+  }
+  
+  .about-us-content {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .about-us h2 {
+    color: #f39c12; /* Adjust based on your design */
+  }
+  
+  .about-us h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .about-us p {
+    margin-bottom: 10px;
+  }
+  
+  .about-us p span {
+    margin-right: 10px;
+  }
+  
+  .about-us-image {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .about-us-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; /* Optional: To round the corners */
+  }
+  
